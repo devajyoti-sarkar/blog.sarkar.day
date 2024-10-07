@@ -2,28 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-10-07T01:19:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/2020/01/28/scelerisque-indictum-non-consectetur-aerat-namin-vitae-turpis/</loc>
-		<lastmod>2024-10-05T04:58:46+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/01/julian-o-hayon-265589-unsplash.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/2020/01/28/quam-nulla-porttitor-massa-id-neque-aliquam-vestibulum/</loc>
-		<lastmod>2024-10-05T04:59:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/01/ben-karpinski-uR_pNOruRPk-unsplash.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/2020/01/28/malesuada-proin-libero-nunc-consequat-interdum/</loc>
-		<lastmod>2024-10-05T04:59:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/01/robert-bahn-1370575-unsplash.jpg</image:loc>
-		</image:image>
+		<lastmod>2024-10-07T02:24:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/2020/01/28/facilisi-nullam-vehicula-ipsum-a-arcu-cursus-vitae-congue/</loc>
@@ -90,7 +69,7 @@
 	</url>
 	<url>
 		<loc>/2020/01/28/welcome-to-the-future-of-wordpress-with-gutenberg/</loc>
-		<lastmod>2024-10-07T01:19:55+00:00</lastmod>
+		<lastmod>2024-10-07T02:16:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/creation.jpg</image:loc>
 		</image:image>
@@ -111,6 +90,27 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/03/julius-drost-1088403-unsplash.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2020/01/28/scelerisque-indictum-non-consectetur-aerat-namin-vitae-turpis/</loc>
+		<lastmod>2024-10-07T02:18:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/01/julian-o-hayon-265589-unsplash.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2020/01/28/quam-nulla-porttitor-massa-id-neque-aliquam-vestibulum/</loc>
+		<lastmod>2024-10-07T02:20:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/01/ben-karpinski-uR_pNOruRPk-unsplash.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2020/01/28/malesuada-proin-libero-nunc-consequat-interdum/</loc>
+		<lastmod>2024-10-07T02:24:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/01/robert-bahn-1370575-unsplash.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
