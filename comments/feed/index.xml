@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for blog.sarkar.day	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://blog.sarkar.day/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.sarkar.day/</link>
 	<description></description>
 	<lastBuildDate>Mon, 07 Oct 2024 02:24:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

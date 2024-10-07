@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://blog.sarkar.day/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/category/art-design/</loc>
+		<loc>https://blog.sarkar.day/category/art-design/</loc>
 		<lastmod>2024-10-05T05:02:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/nature/</loc>
+		<loc>https://blog.sarkar.day/category/nature/</loc>
 		<lastmod>2024-10-07T02:20:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/people/</loc>
+		<loc>https://blog.sarkar.day/category/people/</loc>
 		<lastmod>2024-10-05T05:01:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/travel/</loc>
+		<loc>https://blog.sarkar.day/category/travel/</loc>
 		<lastmod>2024-10-07T02:24:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/trends/</loc>
+		<loc>https://blog.sarkar.day/category/trends/</loc>
 		<lastmod>2024-10-07T02:18:03+00:00</lastmod>
 	</url>
 </urlset>
