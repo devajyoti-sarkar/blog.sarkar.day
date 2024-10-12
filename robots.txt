@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://localhost/sitemap_index.xml
+Sitemap: http://blog.sarkar.day/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
